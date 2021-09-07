@@ -5,7 +5,7 @@ from googletrans import Translator
 
 translator = Translator()
 
-API_TOKEN = '1921982579:AAFnxAx6Kjj9AmfMOgZ7v5SlC1CZZKhdChQ'
+API_TOKEN = 'YOUR_TOKEN'
 
 # Configure logging
 logging.basicConfig(level=logging.INFO)
